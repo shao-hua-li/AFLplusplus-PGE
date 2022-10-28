@@ -1,6 +1,6 @@
 # Accelerating Fuzzing through Prefix-guided Execution (PGE)
 
-This repository contains the implementation of AFL++-PGE and raw experimental data used in the evaluation part.
+This repository contains the implementation of AFL++-PGE used in the evaluation part.
 
 ## Contents
 
